@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="-8 -8 80 80" color="#fff" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M32.8 6.01A26 26 0 0 1 44.3 9.09L35.79 23.84A9 9 0 0 0 32.8 23.04z" fill="hsl(0 85% 55%)" stroke="none"/>
+  <path d="M45.69 9.89A26 26 0 0 1 54.11 18.31L39.36 26.83A9 9 0 0 0 37.17 24.64z" fill="hsl(30 85% 55%)" stroke="none"/>
+  <path d="M54.91 19.7A26 26 0 0 1 57.99 31.2L40.96 31.2A9 9 0 0 0 40.16 28.21z" fill="hsl(60 85% 55%)" stroke="none"/>
+  <path d="M57.99 32.8A26 26 0 0 1 54.91 44.3L40.16 35.79A9 9 0 0 0 40.96 32.8z" fill="hsl(90 85% 55%)" stroke="none"/>
+  <path d="M54.11 45.69A26 26 0 0 1 45.69 54.11L37.17 39.36A9 9 0 0 0 39.36 37.17z" fill="hsl(120 85% 55%)" stroke="none"/>
+  <path d="M44.3 54.91A26 26 0 0 1 32.8 57.99L32.8 40.96A9 9 0 0 0 35.79 40.16z" fill="hsl(150 85% 55%)" stroke="none"/>
+  <path d="M31.2 57.99A26 26 0 0 1 19.7 54.91L28.21 40.16A9 9 0 0 0 31.2 40.96z" fill="hsl(180 85% 55%)" stroke="none"/>
+  <path d="M18.31 54.11A26 26 0 0 1 9.89 45.69L24.64 37.17A9 9 0 0 0 26.83 39.36z" fill="hsl(210 85% 55%)" stroke="none"/>
+  <path d="M9.09 44.3A26 26 0 0 1 6.01 32.8L23.04 32.8A9 9 0 0 0 23.84 35.79z" fill="hsl(240 85% 55%)" stroke="none"/>
+  <path d="M6.01 31.2A26 26 0 0 1 9.09 19.7L23.84 28.21A9 9 0 0 0 23.04 31.2z" fill="hsl(270 85% 55%)" stroke="none"/>
+  <path d="M9.89 18.31A26 26 0 0 1 18.31 9.89L26.83 24.64A9 9 0 0 0 24.64 26.83z" fill="hsl(300 85% 55%)" stroke="none"/>
+  <path d="M19.7 9.09A26 26 0 0 1 31.2 6.01L31.2 23.04A9 9 0 0 0 28.21 23.84z" fill="hsl(330 85% 55%)" stroke="none"/>
+</svg>
